@@ -1,27 +1,34 @@
 # Freestand Diagnostics
 
-SwiftUI companion app for exploring **Freestand** training backups: import exported JSON, review summaries and charts, and optionally save a **PDF report** of the loaded data.
+Companion app for **[Freestand](https://github.com/ibeshesumne/Freestand)** backups: import exported JSON, explore summaries and charts, and optionally save a **PDF report**. Processing happens on your device.
 
 ## Features
 
-- Import a backup file from your device (**Import JSON**)
-- **Visualize** modality summaries, tables, and charts from the loaded export
-- **Home** shows load status and offers **Save PDF report** when a backup is present
-- Data stays on-device; the app analyzes the file you choose
+- **Import JSON** — pick a Freestand (or compatible) backup from your device
+- **Visualize** — modality summaries, tables, and charts from the loaded export
+- **Home** — load status and **Save PDF report** when a backup is present
+- On-device analysis; you choose which file to open and where to save exports
 
 ## Requirements
 
-- Xcode compatible with the project’s deployment targets (see the Xcode project)
-- Apple Developer account for distribution to TestFlight or the App Store
+- Xcode matching the project’s deployment targets (see `Freestand Diagnostics.xcodeproj`)
+- Apple Developer Program membership for TestFlight or App Store distribution
 
 ## Build
 
 1. Open `Freestand Diagnostics.xcodeproj` in Xcode.
-2. Select a run destination (iPhone, iPad, Mac, or simulator as supported by the target).
+2. Choose a run destination (device or simulator supported by the target).
 3. **Product → Run** (⌘R).
 
 ## Repository
 
-Source: [github.com/ibeshesumne/Freestand-Diagnostics](https://github.com/ibeshesumne/Freestand-Diagnostics)
+- This app: [github.com/ibeshesumne/Freestand-Diagnostics](https://github.com/ibeshesumne/Freestand-Diagnostics)
+- Training journal: [github.com/ibeshesumne/Freestand](https://github.com/ibeshesumne/Freestand)
 
-Related app (training journal): [github.com/ibeshesumne/Freestand](https://github.com/ibeshesumne/Freestand)
+## Support
+
+Report an issue or get help: see [SUPPORT.md](SUPPORT.md).
+
+## Privacy
+
+See [PRIVACY_POLICY.md](PRIVACY_POLICY.md).
