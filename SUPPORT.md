@@ -1,5 +1,13 @@
 # Support — Freestand Diagnostics
 
+## Support website (App Store)
+
+After [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) is enabled for this repository (**Settings → Pages → Build and deployment → Branch `main` / folder `/docs`**), the public support page is:
+
+- **https://ibeshesumne.github.io/Freestand-Diagnostics/**
+
+Use that URL as the **Support URL** in App Store Connect.
+
 ## Report a problem or ask a question
 
 - **GitHub issues**: [ibeshesumne/Freestand-Diagnostics/issues](https://github.com/ibeshesumne/Freestand-Diagnostics/issues)  

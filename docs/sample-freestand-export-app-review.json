@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "exportedAt": 1744000000000,
+  "exercises": [
+    {
+      "id": "app-review-ex-1",
+      "set": 1,
+      "rep": 8,
+      "load": 60,
+      "exercisename": "Sample strength set",
+      "unit": "kg",
+      "comments": null,
+      "originalTimestamp": 1743916800000,
+      "modifiedTimestamp": 1743916800000
+    }
+  ],
+  "cardio": [
+    {
+      "id": "app-review-cardio-1",
+      "exerciseType": "run",
+      "exercisename": "Sample cardio session",
+      "set": 1,
+      "plannedDurationSeconds": 1800,
+      "intensityPlanned": "moderate",
+      "recordedDurationSeconds": 1700,
+      "exerciseDate": 1743916800000,
+      "originalTimestamp": 1743916800000,
+      "modifiedTimestamp": 1743916800000,
+      "comments": null
+    }
+  ],
+  "stretchSessions": [
+    {
+      "id": "app-review-stretch-1",
+      "stretchType": "static",
+      "stretchName": "Sample stretch session",
+      "set": 1,
+      "plannedDurationSeconds": 300,
+      "recordedDurationSeconds": 280,
+      "sessionDate": 1744003200000,
+      "originalTimestamp": 1744003200000,
+      "modifiedTimestamp": 1744003200000,
+      "comments": null
+    }
+  ],
+  "coldBathSessions": [
+    {
+      "id": "app-review-cold-1",
+      "location": "tub",
+      "waterTemperature": "10C",
+      "recordedDurationSeconds": 120,
+      "sessionDate": 1744089600000,
+      "originalTimestamp": 1744089600000,
+      "modifiedTimestamp": 1744089600000,
+      "comments": null
+    }
+  ],
+  "theories": [
+    {
+      "id": "app-review-theory-1",
+      "name": "Sample library item",
+      "shortDescription": "Demo theory for review",
+      "detailedDescription": "Synthetic entry for App Store review. Not medical advice.",
+      "workoutDetails": null,
+      "notes": null,
+      "updatedAt": 1743916800000,
+      "sortOrder": 0,
+      "category": "demo"
+    }
+  ],
+  "theoryVersions": [
+    {
+      "rowId": 1,
+      "theoryId": "app-review-theory-1",
+      "versionTimestamp": 1743916800000,
+      "name": "Sample library item",
+      "shortDescription": "Demo theory for review",
+      "detailedDescription": "Synthetic entry for App Store review. Not medical advice.",
+      "workoutDetails": null,
+      "notes": null,
+      "category": "demo"
+    }
+  ]
+}
